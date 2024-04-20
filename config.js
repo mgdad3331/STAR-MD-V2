@@ -7,10 +7,10 @@ import axios from 'axios'
 
 
 global.owner = [
-  ['23470505241', 'EXCEL', true], 
-  ['234802696', 'EXCEL', true], 
-  ['070435241', '⚡Excel', true],
-  ['2347035241', 'Excel', true] ]
+  ['249964922430', 'Mgdad', true], 
+  ['249962204268', 'MGDAD', true], 
+  ['249964922430', '⚡MGDAD', true],
+  ['249964922430', 'MGDAD', true] ]
 
  //Number of owners
 
@@ -53,10 +53,10 @@ global.APIKeys = { // APIKey Here
 }
 
 // Sticker WM
-global.botname = 'STAR-MD-V2'
+global.botname = '░▒▓ Mgdad_Bot ▓▒░'
 global.premium = 'true'
-global.packname = 'STAR-MD' 
-global.author = 'Excel' 
+global.packname = '░▒▓ Mgdad_Bot ▓▒░' 
+global.author = '░▒▓ Mgdad_Bot ▓▒░' 
 global.menuvid = 'https://i.imgur.com/p7sdeTT.mp4'
 global.igfg = '▢✓ Follow My channel\nhttps://whatsapp.com/channel/0029VaE8GbCDzgTILE7OtC3e\n' 
 global.dygp='▢✓ Follow My channel\nhttps://chat.whatsapp.com/Lg0lY4M1k8oDMYzylg86xs\n'
